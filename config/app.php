@@ -6,7 +6,7 @@ define('DB_USER', 'root');
 define('DB_PASSWORD','admin@123');
 define('DB_DATABASE', 'blog_system');
 
-define('SITE_URL', 'http://127.0.0.1/nexmatrixLab/');
+define('SITE_URL', 'http://127.0.0.1/Blog/');
 
 
 include_once('DBConnection.php');
